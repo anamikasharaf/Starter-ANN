@@ -1,4 +1,4 @@
-_author__ = 'anamika.sharaf
+_author__ = 'anamika.sharaf'
 import numpy as np
 from sklearn import datasets, linear_model
 import matplotlib.pyplot as plt
